@@ -1,0 +1,4 @@
+This directory contains files for your React components.
+
+You don't need to manually create component files.
+Instead, to autogenerate components, run `react generate component`.
